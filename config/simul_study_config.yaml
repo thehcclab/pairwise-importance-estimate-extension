@@ -1,0 +1,13 @@
+batch_size: 256
+cuda: 0
+default_path: experiments/simul_study
+epoch: 100
+learning_rate: 0.001
+print_cycle: 20
+split: 0.3
+l1_lambda: 0.9
+l2_lambda: 0.01
+# l1_lambda: 0.9
+# l2_lambda: 0.1
+# l1_lambda: 0.391
+# l2_lambda: 0.041

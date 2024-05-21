@@ -1,0 +1,10 @@
+batch_size: 256
+cuda: 0
+data: PCMAC
+default_path: experiments/scikit_feature
+epoch: 100
+learning_rate: 0.001
+print_cycle: 20
+split: 0.4
+l1_lambda: 0.899
+l2_lambda: 0.135

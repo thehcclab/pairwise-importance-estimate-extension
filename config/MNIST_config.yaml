@@ -1,0 +1,11 @@
+batch_size: 256
+cuda: 0
+default_path: experiments/MNIST
+epoch: 100
+split: 0.4
+learning_rate: 0.0001
+print_cycle: 20
+l1_lambda: 1.0
+l2_lambda: 0.1
+# {'lr': 0.0009537108109690482, 'l1': 0.03452409925062823, 'l2': 0.7288079488942562}
+# {'lr': 0.0005376376025843162, 'l1': 0.048814158158457875, 'l2': 0.6215435321727342}
